@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+td, th{
+    border: 2px solid beige;
+    padding: 10px;
+}
+.comp{
+    background-color: rgb(126, 129, 133);
+}
+.emp{
+    background-color: grey;
+}
+.avan{
+    background-color: red;
+}
+.start{
+    background-color: greenyellow;
+}
+.plan2{
+    background-color: red;
+}
+.preço{
+    background-color: rgb(205, 204, 204);
+}
+.mes{
+    background-color: rgb(205, 204, 204);
+}
+.ok{
+    background-color: rgb(205, 204, 204);
+}
+.ok2{
+    background-color: rgb(205, 204, 204);
+}
+.num{
+    background-color: rgb(205, 204, 204);
+}
+.plano2{
+    background-color: rgb(205, 204, 204);
+}
